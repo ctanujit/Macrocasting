@@ -1,0 +1,15 @@
+darts==0.34.0
+torch==2.3.1
+pytorch-lightning==2.3.3
+torchmetrics==1.4.1
+numpy==1.26.4
+pandas==2.2.2
+scikit-learn==1.7.2
+dask==2025.5.0
+xgboost==3.0.2
+catboost==1.2.8
+pyyaml==6.0.2
+lightgbm==4.6.0
+requests==2.32.3
+urllib3==2.5.0
+charset-normalizer==3.4.6

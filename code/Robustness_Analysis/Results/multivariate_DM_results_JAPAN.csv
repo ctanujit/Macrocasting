@@ -1,0 +1,5 @@
+"Comparison","P_Value","Commentary"
+"SZBVARx vs VAR (12M)",0.031,"SZBVARx has significantly different predictive ability than VAR (12M) (p-value: 0.031 )."
+"SZBVARx vs CatBoost (12M)",0.002,"SZBVARx has significantly different predictive ability than CatBoost (12M) (p-value: 0.002 )."
+"SZBVARx vs VAR (24M)",0.044,"SZBVARx has significantly different predictive ability than VAR (24M) (p-value: 0.044 )."
+"SZBVARx vs CatBoost (24M)",0,"SZBVARx has significantly different predictive ability than CatBoost (24M) (p-value: 0 )."

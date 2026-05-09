@@ -1,0 +1,5 @@
+Comparison,P_Value,Commentary
+SZBVARx vs VARx (12M),0.446,No significant difference in predictive ability between SZBVARx and VAR (12M) (p-value: 0.446 ).
+SZBVARx vs CatBoost (12M),0.015,SZBVARx has significantly different predictive ability than CatBoost (12M) (p-value: 0.015 ).
+SZBVARx vs VAR (24M),0.002,SZBVARx has significantly different predictive ability than VAR (24M) (p-value: 0.002 ).
+SZBVARx vs CatBoost (24M),0,SZBVARx has significantly different predictive ability than CatBoost (24M) (p-value: 0 ).
