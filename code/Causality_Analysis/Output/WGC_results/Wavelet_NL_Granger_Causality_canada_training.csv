@@ -1,0 +1,481 @@
+Endogenous,Exogenous,Scale,Direction,Test,Statistic,p_value,p_value_fdr,Significant_Original,Significant_FDR
+Unemployment Rate,EPU,D1,X_to_Y,Linear_F,7.6024,6.00E-04,0.0029,Yes,Yes
+Unemployment Rate,EPU,D1,Y_to_X,Linear_F,3.3635,0.0358,0.0965,Yes,Yes
+Unemployment Rate,EPU,D1,X_to_Y,NN_GC,0.8826,0.5899,1,No,No
+Unemployment Rate,EPU,D1,Y_to_X,NN_GC,-0.033,1,1,No,No
+Unemployment Rate,EPU,D2,X_to_Y,Linear_F,1.8832,0.1538,0.2461,No,No
+Unemployment Rate,EPU,D2,Y_to_X,Linear_F,1.1071,0.3318,0.5381,No,No
+Unemployment Rate,EPU,D2,X_to_Y,NN_GC,1.9217,0.0183,0.4392,Yes,No
+Unemployment Rate,EPU,D2,Y_to_X,NN_GC,7.00E-04,1,1,No,No
+Unemployment Rate,EPU,D3,X_to_Y,Linear_F,0.1233,0.8841,0.9128,No,No
+Unemployment Rate,EPU,D3,Y_to_X,Linear_F,4.4475,0.0124,0.0512,Yes,Yes
+Unemployment Rate,EPU,D3,X_to_Y,NN_GC,3.6904,0,0,Yes,Yes
+Unemployment Rate,EPU,D3,Y_to_X,NN_GC,0.0462,1,1,No,No
+Unemployment Rate,EPU,D4,X_to_Y,Linear_F,0.2025,0.8168,0.8726,No,No
+Unemployment Rate,EPU,D4,Y_to_X,Linear_F,3.2796,0.0389,0.0972,Yes,Yes
+Unemployment Rate,EPU,D4,X_to_Y,NN_GC,0.0263,1,1,No,No
+Unemployment Rate,EPU,D4,Y_to_X,NN_GC,-0.0107,1,1,No,No
+Unemployment Rate,EPU,D5,X_to_Y,Linear_F,6.8094,0.0013,0.005,Yes,Yes
+Unemployment Rate,EPU,D5,Y_to_X,Linear_F,9.137,1.00E-04,0.0013,Yes,Yes
+Unemployment Rate,EPU,D5,X_to_Y,NN_GC,-0.0984,1,1,No,No
+Unemployment Rate,EPU,D5,Y_to_X,NN_GC,0.65,0.8415,1,No,No
+Unemployment Rate,EPU,D6,X_to_Y,Linear_F,3.6093,0.0282,0.0622,Yes,Yes
+Unemployment Rate,EPU,D6,Y_to_X,Linear_F,10.066,1.00E-04,0.0013,Yes,Yes
+Unemployment Rate,EPU,D6,X_to_Y,NN_GC,0.6521,0.8396,1,No,No
+Unemployment Rate,EPU,D6,Y_to_X,NN_GC,0.3531,0.9908,1,No,No
+Unemployment Rate,GPR,D1,X_to_Y,Linear_F,0.0602,0.9416,0.9495,No,No
+Unemployment Rate,GPR,D1,Y_to_X,Linear_F,1.3084,0.2717,0.4592,No,No
+Unemployment Rate,GPR,D1,X_to_Y,NN_GC,0.7378,0.7545,1,No,No
+Unemployment Rate,GPR,D1,Y_to_X,NN_GC,0.8947,0.5758,1,No,No
+Unemployment Rate,GPR,D2,X_to_Y,Linear_F,0.2225,0.8006,0.8655,No,No
+Unemployment Rate,GPR,D2,Y_to_X,Linear_F,0.3203,0.7262,0.8461,No,No
+Unemployment Rate,GPR,D2,X_to_Y,NN_GC,1.4688,0.1098,1,No,No
+Unemployment Rate,GPR,D2,Y_to_X,NN_GC,1.807,0.0296,0.5074,Yes,No
+Unemployment Rate,GPR,D3,X_to_Y,Linear_F,0.2815,0.7548,0.8387,No,No
+Unemployment Rate,GPR,D3,Y_to_X,Linear_F,0.7925,0.4536,0.6582,No,No
+Unemployment Rate,GPR,D3,X_to_Y,NN_GC,3.3249,0,0,Yes,Yes
+Unemployment Rate,GPR,D3,Y_to_X,NN_GC,3.5268,0,0,Yes,Yes
+Unemployment Rate,GPR,D4,X_to_Y,Linear_F,3.9375,0.0204,0.0499,Yes,Yes
+Unemployment Rate,GPR,D4,Y_to_X,Linear_F,4.6609,0.0101,0.0449,Yes,Yes
+Unemployment Rate,GPR,D4,X_to_Y,NN_GC,0.0049,1,1,No,No
+Unemployment Rate,GPR,D4,Y_to_X,NN_GC,0.5809,0.8976,1,No,No
+Unemployment Rate,GPR,D5,X_to_Y,Linear_F,1.2572,0.2859,0.4036,No,No
+Unemployment Rate,GPR,D5,Y_to_X,Linear_F,0.7426,0.4767,0.6582,No,No
+Unemployment Rate,GPR,D5,X_to_Y,NN_GC,-0.0804,1,1,No,No
+Unemployment Rate,GPR,D5,Y_to_X,NN_GC,-0.0409,1,1,No,No
+Unemployment Rate,GPR,D6,X_to_Y,Linear_F,0.1521,0.8589,0.8962,No,No
+Unemployment Rate,GPR,D6,Y_to_X,Linear_F,0.8217,0.4406,0.6527,No,No
+Unemployment Rate,GPR,D6,X_to_Y,NN_GC,0.4465,0.9687,1,No,No
+Unemployment Rate,GPR,D6,Y_to_X,NN_GC,-0.2213,1,1,No,No
+Unemployment Rate,USEMV,D1,X_to_Y,Linear_F,0.4491,0.6386,0.7565,No,No
+Unemployment Rate,USEMV,D1,Y_to_X,Linear_F,5.2582,0.0057,0.0274,Yes,Yes
+Unemployment Rate,USEMV,D1,X_to_Y,NN_GC,0.74,0.7521,1,No,No
+Unemployment Rate,USEMV,D1,Y_to_X,NN_GC,0.3886,0.9846,1,No,No
+Unemployment Rate,USEMV,D2,X_to_Y,Linear_F,0.7359,0.4799,0.6192,No,No
+Unemployment Rate,USEMV,D2,Y_to_X,Linear_F,0.1846,0.8315,0.8989,No,No
+Unemployment Rate,USEMV,D2,X_to_Y,NN_GC,1.6585,0.0538,1,Yes,No
+Unemployment Rate,USEMV,D2,Y_to_X,NN_GC,0.1189,1,1,No,No
+Unemployment Rate,USEMV,D3,X_to_Y,Linear_F,0.8021,0.4493,0.5925,No,No
+Unemployment Rate,USEMV,D3,Y_to_X,Linear_F,4.2879,0.0145,0.0561,Yes,Yes
+Unemployment Rate,USEMV,D3,X_to_Y,NN_GC,3.4339,0,0,Yes,Yes
+Unemployment Rate,USEMV,D3,Y_to_X,NN_GC,0.2454,0.9989,1,No,No
+Unemployment Rate,USEMV,D4,X_to_Y,Linear_F,2.3346,0.0985,0.1764,Yes,No
+Unemployment Rate,USEMV,D4,Y_to_X,Linear_F,0.2942,0.7453,0.8518,No,No
+Unemployment Rate,USEMV,D4,X_to_Y,NN_GC,0.0179,1,1,No,No
+Unemployment Rate,USEMV,D4,Y_to_X,NN_GC,0.0843,1,1,No,No
+Unemployment Rate,USEMV,D5,X_to_Y,Linear_F,4.0288,0.0187,0.0468,Yes,Yes
+Unemployment Rate,USEMV,D5,Y_to_X,Linear_F,0.8363,0.4343,0.6518,No,No
+Unemployment Rate,USEMV,D5,X_to_Y,NN_GC,-0.0297,1,1,No,No
+Unemployment Rate,USEMV,D5,Y_to_X,NN_GC,0.0872,1,1,No,No
+Unemployment Rate,USEMV,D6,X_to_Y,Linear_F,4.9489,0.0076,0.0217,Yes,Yes
+Unemployment Rate,USEMV,D6,Y_to_X,Linear_F,12.8466,0,0,Yes,Yes
+Unemployment Rate,USEMV,D6,X_to_Y,NN_GC,0.2523,0.9987,1,No,No
+Unemployment Rate,USEMV,D6,Y_to_X,NN_GC,0.5855,0.8943,1,No,No
+Unemployment Rate,USMPU,D1,X_to_Y,Linear_F,3.4831,0.0319,0.0672,Yes,Yes
+Unemployment Rate,USMPU,D1,Y_to_X,Linear_F,0.615,0.5413,0.7217,No,No
+Unemployment Rate,USMPU,D1,X_to_Y,NN_GC,0.6929,0.8009,1,No,No
+Unemployment Rate,USMPU,D1,Y_to_X,NN_GC,0.6088,0.8764,1,No,No
+Unemployment Rate,USMPU,D2,X_to_Y,Linear_F,1.6775,0.1885,0.2908,No,No
+Unemployment Rate,USMPU,D2,Y_to_X,Linear_F,2.7441,0.0658,0.1462,Yes,No
+Unemployment Rate,USMPU,D2,X_to_Y,NN_GC,1.3734,0.1532,1,No,No
+Unemployment Rate,USMPU,D2,Y_to_X,NN_GC,0.9044,0.5646,1,No,No
+Unemployment Rate,USMPU,D3,X_to_Y,Linear_F,1.976,0.1403,0.2338,No,No
+Unemployment Rate,USMPU,D3,Y_to_X,Linear_F,3.296,0.0383,0.0972,Yes,Yes
+Unemployment Rate,USMPU,D3,X_to_Y,NN_GC,3.3616,0,0,Yes,Yes
+Unemployment Rate,USMPU,D3,Y_to_X,NN_GC,0.4093,0.9798,1,No,No
+Unemployment Rate,USMPU,D4,X_to_Y,Linear_F,0.3085,0.7348,0.8318,No,No
+Unemployment Rate,USMPU,D4,Y_to_X,Linear_F,1.9498,0.144,0.2743,No,No
+Unemployment Rate,USMPU,D4,X_to_Y,NN_GC,0.0213,1,1,No,No
+Unemployment Rate,USMPU,D4,Y_to_X,NN_GC,0.0322,1,1,No,No
+Unemployment Rate,USMPU,D5,X_to_Y,Linear_F,2.7042,0.0685,0.1265,Yes,No
+Unemployment Rate,USMPU,D5,Y_to_X,Linear_F,1.1125,0.33,0.5381,No,No
+Unemployment Rate,USMPU,D5,X_to_Y,NN_GC,-0.0275,1,1,No,No
+Unemployment Rate,USMPU,D5,Y_to_X,NN_GC,0.355,0.9905,1,No,No
+Unemployment Rate,USMPU,D6,X_to_Y,Linear_F,0.5864,0.5569,0.7035,No,No
+Unemployment Rate,USMPU,D6,Y_to_X,Linear_F,0.1214,0.8857,0.9162,No,No
+Unemployment Rate,USMPU,D6,X_to_Y,NN_GC,0.383,0.9857,1,No,No
+Unemployment Rate,USMPU,D6,Y_to_X,NN_GC,0.0207,1,1,No,No
+REER,EPU,D1,X_to_Y,Linear_F,0.0653,0.9368,0.9495,No,No
+REER,EPU,D1,Y_to_X,Linear_F,0.2042,0.8154,0.8977,No,No
+REER,EPU,D1,X_to_Y,NN_GC,0.0603,1,1,No,No
+REER,EPU,D1,Y_to_X,NN_GC,-0.026,1,1,No,No
+REER,EPU,D2,X_to_Y,Linear_F,1.5601,0.2117,0.3098,No,No
+REER,EPU,D2,Y_to_X,Linear_F,3.3546,0.0362,0.0965,Yes,Yes
+REER,EPU,D2,X_to_Y,NN_GC,0.0025,1,1,No,No
+REER,EPU,D2,Y_to_X,NN_GC,-0.0143,1,1,No,No
+REER,EPU,D3,X_to_Y,Linear_F,0.1965,0.8217,0.8726,No,No
+REER,EPU,D3,Y_to_X,Linear_F,3.8144,0.0231,0.0761,Yes,Yes
+REER,EPU,D3,X_to_Y,NN_GC,0.4466,0.9687,1,No,No
+REER,EPU,D3,Y_to_X,NN_GC,0.0262,1,1,No,No
+REER,EPU,D4,X_to_Y,Linear_F,0.38,0.6841,0.797,No,No
+REER,EPU,D4,Y_to_X,Linear_F,0.4186,0.6583,0.8068,No,No
+REER,EPU,D4,X_to_Y,NN_GC,0.0842,1,1,No,No
+REER,EPU,D4,Y_to_X,NN_GC,-0.0186,1,1,No,No
+REER,EPU,D5,X_to_Y,Linear_F,3.1651,0.0435,0.087,Yes,Yes
+REER,EPU,D5,Y_to_X,Linear_F,0.9794,0.3766,0.5869,No,No
+REER,EPU,D5,X_to_Y,NN_GC,1.0176,0.4376,1,No,No
+REER,EPU,D5,Y_to_X,NN_GC,0.581,0.8975,1,No,No
+REER,EPU,D6,X_to_Y,Linear_F,13.475,0,0,Yes,Yes
+REER,EPU,D6,Y_to_X,Linear_F,16.1416,0,0,Yes,Yes
+REER,EPU,D6,X_to_Y,NN_GC,-0.0543,1,1,No,No
+REER,EPU,D6,Y_to_X,NN_GC,0.1159,1,1,No,No
+REER,GPR,D1,X_to_Y,Linear_F,0.2254,0.7983,0.8655,No,No
+REER,GPR,D1,Y_to_X,Linear_F,0.0173,0.9829,0.9847,No,No
+REER,GPR,D1,X_to_Y,NN_GC,0.0468,1,1,No,No
+REER,GPR,D1,Y_to_X,NN_GC,1.0444,0.4094,1,No,No
+REER,GPR,D2,X_to_Y,Linear_F,0.0181,0.9821,0.9821,No,No
+REER,GPR,D2,Y_to_X,Linear_F,0.5953,0.552,0.7279,No,No
+REER,GPR,D2,X_to_Y,NN_GC,0.0036,1,1,No,No
+REER,GPR,D2,Y_to_X,NN_GC,2.352,0.0027,0.081,Yes,Yes
+REER,GPR,D3,X_to_Y,Linear_F,0.3543,0.7019,0.8099,No,No
+REER,GPR,D3,Y_to_X,Linear_F,0.0855,0.9181,0.9396,No,No
+REER,GPR,D3,X_to_Y,NN_GC,0.6476,0.8437,1,No,No
+REER,GPR,D3,Y_to_X,NN_GC,2.2185,0.0049,0.1,Yes,No
+REER,GPR,D4,X_to_Y,Linear_F,0.4422,0.643,0.7565,No,No
+REER,GPR,D4,Y_to_X,Linear_F,0.0154,0.9847,0.9847,No,No
+REER,GPR,D4,X_to_Y,NN_GC,0.2488,0.9988,1,No,No
+REER,GPR,D4,Y_to_X,NN_GC,0.7593,0.7312,1,No,No
+REER,GPR,D5,X_to_Y,Linear_F,0.672,0.5114,0.6529,No,No
+REER,GPR,D5,Y_to_X,Linear_F,0.3492,0.7055,0.8382,No,No
+REER,GPR,D5,X_to_Y,NN_GC,1.0755,0.3779,1,No,No
+REER,GPR,D5,Y_to_X,NN_GC,0.0065,1,1,No,No
+REER,GPR,D6,X_to_Y,Linear_F,0.2878,0.7501,0.8387,No,No
+REER,GPR,D6,Y_to_X,Linear_F,6.8787,0.0012,0.0096,Yes,Yes
+REER,GPR,D6,X_to_Y,NN_GC,-0.027,1,1,No,No
+REER,GPR,D6,Y_to_X,NN_GC,-0.006,1,1,No,No
+REER,USEMV,D1,X_to_Y,Linear_F,6.952,0.0011,0.0044,Yes,Yes
+REER,USEMV,D1,Y_to_X,Linear_F,1.5064,0.2233,0.406,No,No
+REER,USEMV,D1,X_to_Y,NN_GC,0.0462,1,1,No,No
+REER,USEMV,D1,Y_to_X,NN_GC,0.4306,0.9739,1,No,No
+REER,USEMV,D2,X_to_Y,Linear_F,3.5548,0.0297,0.0636,Yes,Yes
+REER,USEMV,D2,Y_to_X,Linear_F,0.7434,0.4763,0.6582,No,No
+REER,USEMV,D2,X_to_Y,NN_GC,-0.0072,1,1,No,No
+REER,USEMV,D2,Y_to_X,NN_GC,0.1391,1,1,No,No
+REER,USEMV,D3,X_to_Y,Linear_F,7.2736,8.00E-04,0.0034,Yes,Yes
+REER,USEMV,D3,Y_to_X,Linear_F,0.7782,0.4601,0.6582,No,No
+REER,USEMV,D3,X_to_Y,NN_GC,0.4709,0.9595,1,No,No
+REER,USEMV,D3,Y_to_X,NN_GC,0.1032,1,1,No,No
+REER,USEMV,D4,X_to_Y,Linear_F,2.038,0.132,0.2295,No,No
+REER,USEMV,D4,Y_to_X,Linear_F,2.2059,0.1118,0.2236,No,No
+REER,USEMV,D4,X_to_Y,NN_GC,0.0478,1,1,No,No
+REER,USEMV,D4,Y_to_X,NN_GC,0.1251,1,1,No,No
+REER,USEMV,D5,X_to_Y,Linear_F,0.4833,0.6172,0.7558,No,No
+REER,USEMV,D5,Y_to_X,Linear_F,0.2593,0.7718,0.8656,No,No
+REER,USEMV,D5,X_to_Y,NN_GC,1.0146,0.4408,1,No,No
+REER,USEMV,D5,Y_to_X,NN_GC,0.0656,1,1,No,No
+REER,USEMV,D6,X_to_Y,Linear_F,9.3706,1.00E-04,5.00E-04,Yes,Yes
+REER,USEMV,D6,Y_to_X,Linear_F,13.8927,0,0,Yes,Yes
+REER,USEMV,D6,X_to_Y,NN_GC,-0.0336,1,1,No,No
+REER,USEMV,D6,Y_to_X,NN_GC,0.3174,0.9949,1,No,No
+REER,USMPU,D1,X_to_Y,Linear_F,1.6454,0.1946,0.2908,No,No
+REER,USMPU,D1,Y_to_X,Linear_F,3.3961,0.0347,0.0965,Yes,Yes
+REER,USMPU,D1,X_to_Y,NN_GC,0.044,1,1,No,No
+REER,USMPU,D1,Y_to_X,NN_GC,0.7049,0.7888,1,No,No
+REER,USMPU,D2,X_to_Y,Linear_F,0.4731,0.6235,0.7558,No,No
+REER,USMPU,D2,Y_to_X,Linear_F,3.767,0.0242,0.0761,Yes,Yes
+REER,USMPU,D2,X_to_Y,NN_GC,8.00E-04,1,1,No,No
+REER,USMPU,D2,Y_to_X,NN_GC,1.1013,0.3528,1,No,No
+REER,USMPU,D3,X_to_Y,Linear_F,2.0093,0.1358,0.2295,No,No
+REER,USMPU,D3,Y_to_X,Linear_F,1.0584,0.3482,0.5571,No,No
+REER,USMPU,D3,X_to_Y,NN_GC,0.5071,0.943,1,No,No
+REER,USMPU,D3,Y_to_X,NN_GC,0.2034,0.9997,1,No,No
+REER,USMPU,D4,X_to_Y,Linear_F,5.4662,0.0046,0.0145,Yes,Yes
+REER,USMPU,D4,Y_to_X,Linear_F,1.256,0.2862,0.477,No,No
+REER,USMPU,D4,X_to_Y,NN_GC,0.2299,0.9993,1,No,No
+REER,USMPU,D4,Y_to_X,NN_GC,0.0204,1,1,No,No
+REER,USMPU,D5,X_to_Y,Linear_F,6.123,0.0025,0.0091,Yes,Yes
+REER,USMPU,D5,Y_to_X,Linear_F,1.7038,0.1836,0.339,No,No
+REER,USMPU,D5,X_to_Y,NN_GC,1.1821,0.2811,1,No,No
+REER,USMPU,D5,Y_to_X,NN_GC,0.4264,0.9751,1,No,No
+REER,USMPU,D6,X_to_Y,Linear_F,0.9333,0.3943,0.5377,No,No
+REER,USMPU,D6,Y_to_X,Linear_F,17.1943,0,0,Yes,Yes
+REER,USMPU,D6,X_to_Y,NN_GC,-0.0264,1,1,No,No
+REER,USMPU,D6,Y_to_X,NN_GC,-0.0221,1,1,No,No
+SIR,EPU,D1,X_to_Y,Linear_F,0.8637,0.4226,0.5698,No,No
+SIR,EPU,D1,Y_to_X,Linear_F,2.2159,0.1107,0.2236,No,No
+SIR,EPU,D1,X_to_Y,NN_GC,0.2481,0.9988,1,No,No
+SIR,EPU,D1,Y_to_X,NN_GC,-0.0288,1,1,No,No
+SIR,EPU,D2,X_to_Y,Linear_F,0.315,0.73,0.8318,No,No
+SIR,EPU,D2,Y_to_X,Linear_F,3.3234,0.0373,0.0972,Yes,Yes
+SIR,EPU,D2,X_to_Y,NN_GC,0.0151,1,1,No,No
+SIR,EPU,D2,Y_to_X,NN_GC,0.0109,1,1,No,No
+SIR,EPU,D3,X_to_Y,Linear_F,4.2057,0.0157,0.041,Yes,Yes
+SIR,EPU,D3,Y_to_X,Linear_F,0.135,0.8737,0.9162,No,No
+SIR,EPU,D3,X_to_Y,NN_GC,0.0057,1,1,No,No
+SIR,EPU,D3,Y_to_X,NN_GC,0.0154,1,1,No,No
+SIR,EPU,D4,X_to_Y,Linear_F,3.2897,0.0385,0.0783,Yes,Yes
+SIR,EPU,D4,Y_to_X,Linear_F,3.6913,0.026,0.0761,Yes,Yes
+SIR,EPU,D4,X_to_Y,NN_GC,0.3779,0.9867,1,No,No
+SIR,EPU,D4,Y_to_X,NN_GC,-0.0399,1,1,No,No
+SIR,EPU,D5,X_to_Y,Linear_F,10.0572,1.00E-04,5.00E-04,Yes,Yes
+SIR,EPU,D5,Y_to_X,Linear_F,3.767,0.0242,0.0761,Yes,Yes
+SIR,EPU,D5,X_to_Y,NN_GC,-0.0263,1,1,No,No
+SIR,EPU,D5,Y_to_X,NN_GC,0.557,0.914,1,No,No
+SIR,EPU,D6,X_to_Y,Linear_F,33.5637,0,0,Yes,Yes
+SIR,EPU,D6,Y_to_X,Linear_F,2.6737,0.0705,0.1484,Yes,No
+SIR,EPU,D6,X_to_Y,NN_GC,-0.0418,1,1,No,No
+SIR,EPU,D6,Y_to_X,NN_GC,0.049,1,1,No,No
+SIR,GPR,D1,X_to_Y,Linear_F,1.9246,0.1476,0.2394,No,No
+SIR,GPR,D1,Y_to_X,Linear_F,0.7539,0.4714,0.6582,No,No
+SIR,GPR,D1,X_to_Y,NN_GC,0.2094,0.9996,1,No,No
+SIR,GPR,D1,Y_to_X,NN_GC,0.9916,0.4658,1,No,No
+SIR,GPR,D2,X_to_Y,Linear_F,0.1166,0.89,0.9128,No,No
+SIR,GPR,D2,Y_to_X,Linear_F,3.7056,0.0256,0.0761,Yes,Yes
+SIR,GPR,D2,X_to_Y,NN_GC,0.0116,1,1,No,No
+SIR,GPR,D2,Y_to_X,NN_GC,2.2135,0.005,0.1,Yes,No
+SIR,GPR,D3,X_to_Y,Linear_F,5.3517,0.0052,0.0156,Yes,Yes
+SIR,GPR,D3,Y_to_X,Linear_F,0.68,0.5074,0.6841,No,No
+SIR,GPR,D3,X_to_Y,NN_GC,0.0156,1,1,No,No
+SIR,GPR,D3,Y_to_X,NN_GC,1.4712,0.1089,1,No,No
+SIR,GPR,D4,X_to_Y,Linear_F,7.4155,7.00E-04,0.0031,Yes,Yes
+SIR,GPR,D4,Y_to_X,Linear_F,6.4532,0.0018,0.0133,Yes,Yes
+SIR,GPR,D4,X_to_Y,NN_GC,0.2292,0.9993,1,No,No
+SIR,GPR,D4,Y_to_X,NN_GC,0.9337,0.5308,1,No,No
+SIR,GPR,D5,X_to_Y,Linear_F,10.7446,0,0,Yes,Yes
+SIR,GPR,D5,Y_to_X,Linear_F,0.4178,0.6589,0.8068,No,No
+SIR,GPR,D5,X_to_Y,NN_GC,-0.0112,1,1,No,No
+SIR,GPR,D5,Y_to_X,NN_GC,-0.0075,1,1,No,No
+SIR,GPR,D6,X_to_Y,Linear_F,17.4115,0,0,Yes,Yes
+SIR,GPR,D6,Y_to_X,Linear_F,0.5583,0.5727,0.7356,No,No
+SIR,GPR,D6,X_to_Y,NN_GC,-0.0593,1,1,No,No
+SIR,GPR,D6,Y_to_X,NN_GC,-0.0406,1,1,No,No
+SIR,USEMV,D1,X_to_Y,Linear_F,1.6565,0.1924,0.2908,No,No
+SIR,USEMV,D1,Y_to_X,Linear_F,3.8574,0.0221,0.0761,Yes,Yes
+SIR,USEMV,D1,X_to_Y,NN_GC,0.2101,0.9996,1,No,No
+SIR,USEMV,D1,Y_to_X,NN_GC,0.4291,0.9743,1,No,No
+SIR,USEMV,D2,X_to_Y,Linear_F,0.451,0.6374,0.7565,No,No
+SIR,USEMV,D2,Y_to_X,Linear_F,1.3819,0.2526,0.4373,No,No
+SIR,USEMV,D2,X_to_Y,NN_GC,0.0164,1,1,No,No
+SIR,USEMV,D2,Y_to_X,NN_GC,0.1414,1,1,No,No
+SIR,USEMV,D3,X_to_Y,Linear_F,1.2982,0.2744,0.392,No,No
+SIR,USEMV,D3,Y_to_X,Linear_F,5.847,0.0032,0.0183,Yes,Yes
+SIR,USEMV,D3,X_to_Y,NN_GC,0.0344,1,1,No,No
+SIR,USEMV,D3,Y_to_X,NN_GC,0.0593,1,1,No,No
+SIR,USEMV,D4,X_to_Y,Linear_F,10.5959,0,0,Yes,Yes
+SIR,USEMV,D4,Y_to_X,Linear_F,2.6845,0.0698,0.1484,Yes,No
+SIR,USEMV,D4,X_to_Y,NN_GC,0.3891,0.9845,1,No,No
+SIR,USEMV,D4,Y_to_X,NN_GC,-0.0168,1,1,No,No
+SIR,USEMV,D5,X_to_Y,Linear_F,10.703,0,0,Yes,Yes
+SIR,USEMV,D5,Y_to_X,Linear_F,1.3721,0.2551,0.4373,No,No
+SIR,USEMV,D5,X_to_Y,NN_GC,-0.0172,1,1,No,No
+SIR,USEMV,D5,Y_to_X,NN_GC,0.1275,1,1,No,No
+SIR,USEMV,D6,X_to_Y,Linear_F,9.9465,1.00E-04,5.00E-04,Yes,Yes
+SIR,USEMV,D6,Y_to_X,Linear_F,8.5395,2.00E-04,0.0024,Yes,Yes
+SIR,USEMV,D6,X_to_Y,NN_GC,-0.134,1,1,No,No
+SIR,USEMV,D6,Y_to_X,NN_GC,0.6762,0.8172,1,No,No
+SIR,USMPU,D1,X_to_Y,Linear_F,5.9219,0.003,0.0097,Yes,Yes
+SIR,USMPU,D1,Y_to_X,Linear_F,0.3319,0.7178,0.8445,No,No
+SIR,USMPU,D1,X_to_Y,NN_GC,0.2024,0.9997,1,No,No
+SIR,USMPU,D1,Y_to_X,NN_GC,0.6807,0.8128,1,No,No
+SIR,USMPU,D2,X_to_Y,Linear_F,0.5559,0.5741,0.7102,No,No
+SIR,USMPU,D2,Y_to_X,Linear_F,5.8519,0.0032,0.0183,Yes,Yes
+SIR,USMPU,D2,X_to_Y,NN_GC,0.0082,1,1,No,No
+SIR,USMPU,D2,Y_to_X,NN_GC,1.0132,0.4423,1,No,No
+SIR,USMPU,D3,X_to_Y,Linear_F,4.861,0.0083,0.0232,Yes,Yes
+SIR,USMPU,D3,Y_to_X,Linear_F,0.7415,0.4772,0.6582,No,No
+SIR,USMPU,D3,X_to_Y,NN_GC,0.0177,1,1,No,No
+SIR,USMPU,D3,Y_to_X,NN_GC,0.1134,1,1,No,No
+SIR,USMPU,D4,X_to_Y,Linear_F,6.0061,0.0028,0.0096,Yes,Yes
+SIR,USMPU,D4,Y_to_X,Linear_F,22.2227,0,0,Yes,Yes
+SIR,USMPU,D4,X_to_Y,NN_GC,0.4012,0.9818,1,No,No
+SIR,USMPU,D4,Y_to_X,NN_GC,-0.0395,1,1,No,No
+SIR,USMPU,D5,X_to_Y,Linear_F,16.44,0,0,Yes,Yes
+SIR,USMPU,D5,Y_to_X,Linear_F,0.2184,0.8039,0.8932,No,No
+SIR,USMPU,D5,X_to_Y,NN_GC,-0.0295,1,1,No,No
+SIR,USMPU,D5,Y_to_X,NN_GC,0.4825,0.9546,1,No,No
+SIR,USMPU,D6,X_to_Y,Linear_F,42.5286,0,0,Yes,Yes
+SIR,USMPU,D6,Y_to_X,Linear_F,0.7186,0.4882,0.6657,No,No
+SIR,USMPU,D6,X_to_Y,NN_GC,-0.0879,1,1,No,No
+SIR,USMPU,D6,Y_to_X,NN_GC,0.0137,1,1,No,No
+Oil Price (WTI),EPU,D1,X_to_Y,Linear_F,2.1918,0.1134,0.2001,No,No
+Oil Price (WTI),EPU,D1,Y_to_X,Linear_F,0.1252,0.8824,0.9162,No,No
+Oil Price (WTI),EPU,D1,X_to_Y,NN_GC,0.0749,1,1,No,No
+Oil Price (WTI),EPU,D1,Y_to_X,NN_GC,-0.0284,1,1,No,No
+Oil Price (WTI),EPU,D2,X_to_Y,Linear_F,2.7676,0.0643,0.1225,Yes,No
+Oil Price (WTI),EPU,D2,Y_to_X,Linear_F,2.9407,0.0543,0.1229,Yes,No
+Oil Price (WTI),EPU,D2,X_to_Y,NN_GC,0.1097,1,1,No,No
+Oil Price (WTI),EPU,D2,Y_to_X,NN_GC,3.00E-04,1,1,No,No
+Oil Price (WTI),EPU,D3,X_to_Y,Linear_F,3.8567,0.0221,0.052,Yes,Yes
+Oil Price (WTI),EPU,D3,Y_to_X,Linear_F,0.8357,0.4345,0.6518,No,No
+Oil Price (WTI),EPU,D3,X_to_Y,NN_GC,-0.051,1,1,No,No
+Oil Price (WTI),EPU,D3,Y_to_X,NN_GC,0.0198,1,1,No,No
+Oil Price (WTI),EPU,D4,X_to_Y,Linear_F,4.1154,0.0172,0.0439,Yes,Yes
+Oil Price (WTI),EPU,D4,Y_to_X,Linear_F,4.4183,0.0128,0.0512,Yes,Yes
+Oil Price (WTI),EPU,D4,X_to_Y,NN_GC,-0.0039,1,1,No,No
+Oil Price (WTI),EPU,D4,Y_to_X,NN_GC,-0.0208,1,1,No,No
+Oil Price (WTI),EPU,D5,X_to_Y,Linear_F,3.8164,0.023,0.0531,Yes,Yes
+Oil Price (WTI),EPU,D5,Y_to_X,Linear_F,2.0583,0.1294,0.2506,No,No
+Oil Price (WTI),EPU,D5,X_to_Y,NN_GC,0.0953,1,1,No,No
+Oil Price (WTI),EPU,D5,Y_to_X,NN_GC,0.6143,0.8721,1,No,No
+Oil Price (WTI),EPU,D6,X_to_Y,Linear_F,1.6466,0.1943,0.2908,No,No
+Oil Price (WTI),EPU,D6,Y_to_X,Linear_F,5.6272,0.004,0.0218,Yes,Yes
+Oil Price (WTI),EPU,D6,X_to_Y,NN_GC,0.844,0.6349,1,No,No
+Oil Price (WTI),EPU,D6,Y_to_X,NN_GC,0.1241,1,1,No,No
+Oil Price (WTI),GPR,D1,X_to_Y,Linear_F,0.7567,0.4701,0.6132,No,No
+Oil Price (WTI),GPR,D1,Y_to_X,Linear_F,0.5805,0.5602,0.7307,No,No
+Oil Price (WTI),GPR,D1,X_to_Y,NN_GC,0.0745,1,1,No,No
+Oil Price (WTI),GPR,D1,Y_to_X,NN_GC,1.3518,0.1648,1,No,No
+Oil Price (WTI),GPR,D2,X_to_Y,Linear_F,0.1749,0.8396,0.8838,No,No
+Oil Price (WTI),GPR,D2,Y_to_X,Linear_F,0.4599,0.6318,0.7981,No,No
+Oil Price (WTI),GPR,D2,X_to_Y,NN_GC,0.1796,0.9999,1,No,No
+Oil Price (WTI),GPR,D2,Y_to_X,NN_GC,2.8191,3.00E-04,0.012,Yes,Yes
+Oil Price (WTI),GPR,D3,X_to_Y,Linear_F,0.256,0.7743,0.8524,No,No
+Oil Price (WTI),GPR,D3,Y_to_X,Linear_F,0.3025,0.7392,0.8518,No,No
+Oil Price (WTI),GPR,D3,X_to_Y,NN_GC,0.0497,1,1,No,No
+Oil Price (WTI),GPR,D3,Y_to_X,NN_GC,1.5853,0.0714,1,Yes,No
+Oil Price (WTI),GPR,D4,X_to_Y,Linear_F,1.6365,0.1963,0.2908,No,No
+Oil Price (WTI),GPR,D4,Y_to_X,Linear_F,0.1886,0.8282,0.8989,No,No
+Oil Price (WTI),GPR,D4,X_to_Y,NN_GC,0.0634,1,1,No,No
+Oil Price (WTI),GPR,D4,Y_to_X,NN_GC,0.6898,0.804,1,No,No
+Oil Price (WTI),GPR,D5,X_to_Y,Linear_F,1.9558,0.1431,0.2352,No,No
+Oil Price (WTI),GPR,D5,Y_to_X,Linear_F,0.1658,0.8473,0.9078,No,No
+Oil Price (WTI),GPR,D5,X_to_Y,NN_GC,0.0629,1,1,No,No
+Oil Price (WTI),GPR,D5,Y_to_X,NN_GC,-0.0087,1,1,No,No
+Oil Price (WTI),GPR,D6,X_to_Y,Linear_F,10.217,0,0,Yes,Yes
+Oil Price (WTI),GPR,D6,Y_to_X,Linear_F,1.4363,0.2393,0.4286,No,No
+Oil Price (WTI),GPR,D6,X_to_Y,NN_GC,0.6603,0.8321,1,No,No
+Oil Price (WTI),GPR,D6,Y_to_X,NN_GC,-0.0445,1,1,No,No
+Oil Price (WTI),USEMV,D1,X_to_Y,Linear_F,3.9212,0.0208,0.0499,Yes,Yes
+Oil Price (WTI),USEMV,D1,Y_to_X,Linear_F,0.3906,0.677,0.8206,No,No
+Oil Price (WTI),USEMV,D1,X_to_Y,NN_GC,0.0604,1,1,No,No
+Oil Price (WTI),USEMV,D1,Y_to_X,NN_GC,0.5654,0.9084,1,No,No
+Oil Price (WTI),USEMV,D2,X_to_Y,Linear_F,3.5981,0.0285,0.0622,Yes,Yes
+Oil Price (WTI),USEMV,D2,Y_to_X,Linear_F,8.3791,3.00E-04,0.003,Yes,Yes
+Oil Price (WTI),USEMV,D2,X_to_Y,NN_GC,0.106,1,1,No,No
+Oil Price (WTI),USEMV,D2,Y_to_X,NN_GC,0.1689,0.9999,1,No,No
+Oil Price (WTI),USEMV,D3,X_to_Y,Linear_F,15.6292,0,0,Yes,Yes
+Oil Price (WTI),USEMV,D3,Y_to_X,Linear_F,0.9582,0.3847,0.5918,No,No
+Oil Price (WTI),USEMV,D3,X_to_Y,NN_GC,-0.0712,1,1,No,No
+Oil Price (WTI),USEMV,D3,Y_to_X,NN_GC,0.0898,1,1,No,No
+Oil Price (WTI),USEMV,D4,X_to_Y,Linear_F,19.2636,0,0,Yes,Yes
+Oil Price (WTI),USEMV,D4,Y_to_X,Linear_F,3.7178,0.0253,0.0761,Yes,Yes
+Oil Price (WTI),USEMV,D4,X_to_Y,NN_GC,0.0066,1,1,No,No
+Oil Price (WTI),USEMV,D4,Y_to_X,NN_GC,0.0508,1,1,No,No
+Oil Price (WTI),USEMV,D5,X_to_Y,Linear_F,3.0189,0.0502,0.0988,Yes,Yes
+Oil Price (WTI),USEMV,D5,Y_to_X,Linear_F,2.6816,0.07,0.1484,Yes,No
+Oil Price (WTI),USEMV,D5,X_to_Y,NN_GC,0.1696,0.9999,1,No,No
+Oil Price (WTI),USEMV,D5,Y_to_X,NN_GC,0.1411,1,1,No,No
+Oil Price (WTI),USEMV,D6,X_to_Y,Linear_F,0.8345,0.435,0.58,No,No
+Oil Price (WTI),USEMV,D6,Y_to_X,Linear_F,5.3029,0.0054,0.027,Yes,Yes
+Oil Price (WTI),USEMV,D6,X_to_Y,NN_GC,0.9194,0.5472,1,No,No
+Oil Price (WTI),USEMV,D6,Y_to_X,NN_GC,0.6599,0.8324,1,No,No
+Oil Price (WTI),USMPU,D1,X_to_Y,Linear_F,2.0138,0.1352,0.2295,No,No
+Oil Price (WTI),USMPU,D1,Y_to_X,Linear_F,0.5522,0.5762,0.7356,No,No
+Oil Price (WTI),USMPU,D1,X_to_Y,NN_GC,0.058,1,1,No,No
+Oil Price (WTI),USMPU,D1,Y_to_X,NN_GC,0.9161,0.551,1,No,No
+Oil Price (WTI),USMPU,D2,X_to_Y,Linear_F,2.5183,0.0822,0.1495,Yes,No
+Oil Price (WTI),USMPU,D2,Y_to_X,Linear_F,3.8168,0.023,0.0761,Yes,Yes
+Oil Price (WTI),USMPU,D2,X_to_Y,NN_GC,0.1232,1,1,No,No
+Oil Price (WTI),USMPU,D2,Y_to_X,NN_GC,1.3121,0.1879,1,No,No
+Oil Price (WTI),USMPU,D3,X_to_Y,Linear_F,8.2727,3.00E-04,0.0015,Yes,Yes
+Oil Price (WTI),USMPU,D3,Y_to_X,Linear_F,0.2699,0.7637,0.8646,No,No
+Oil Price (WTI),USMPU,D3,X_to_Y,NN_GC,-0.0346,1,1,No,No
+Oil Price (WTI),USMPU,D3,Y_to_X,NN_GC,0.1595,0.9999,1,No,No
+Oil Price (WTI),USMPU,D4,X_to_Y,Linear_F,10.2483,0,0,Yes,Yes
+Oil Price (WTI),USMPU,D4,Y_to_X,Linear_F,6.3308,0.002,0.0133,Yes,Yes
+Oil Price (WTI),USMPU,D4,X_to_Y,NN_GC,0.0861,1,1,No,No
+Oil Price (WTI),USMPU,D4,Y_to_X,NN_GC,0.0087,1,1,No,No
+Oil Price (WTI),USMPU,D5,X_to_Y,Linear_F,1.3623,0.2575,0.3723,No,No
+Oil Price (WTI),USMPU,D5,Y_to_X,Linear_F,0.4282,0.652,0.8068,No,No
+Oil Price (WTI),USMPU,D5,X_to_Y,NN_GC,0.1855,0.9998,1,No,No
+Oil Price (WTI),USMPU,D5,Y_to_X,NN_GC,0.4296,0.9741,1,No,No
+Oil Price (WTI),USMPU,D6,X_to_Y,Linear_F,5.0026,0.0073,0.0214,Yes,Yes
+Oil Price (WTI),USMPU,D6,Y_to_X,Linear_F,6.3208,0.002,0.0133,Yes,Yes
+Oil Price (WTI),USMPU,D6,X_to_Y,NN_GC,0.5827,0.8963,1,No,No
+Oil Price (WTI),USMPU,D6,Y_to_X,NN_GC,0.0194,1,1,No,No
+CPI Inflation,EPU,D1,X_to_Y,Linear_F,1.0683,0.3448,0.4756,No,No
+CPI Inflation,EPU,D1,Y_to_X,Linear_F,0.1522,0.8589,0.9121,No,No
+CPI Inflation,EPU,D1,X_to_Y,NN_GC,-0.0261,1,1,No,No
+CPI Inflation,EPU,D1,Y_to_X,NN_GC,-0.0281,1,1,No,No
+CPI Inflation,EPU,D2,X_to_Y,Linear_F,3.4615,0.0326,0.0674,Yes,Yes
+CPI Inflation,EPU,D2,Y_to_X,Linear_F,2.0569,0.1295,0.2506,No,No
+CPI Inflation,EPU,D2,X_to_Y,NN_GC,0.0964,1,1,No,No
+CPI Inflation,EPU,D2,Y_to_X,NN_GC,-6.00E-04,1,1,No,No
+CPI Inflation,EPU,D3,X_to_Y,Linear_F,7.1367,9.00E-04,0.0037,Yes,Yes
+CPI Inflation,EPU,D3,Y_to_X,Linear_F,9.3024,1.00E-04,0.0013,Yes,Yes
+CPI Inflation,EPU,D3,X_to_Y,NN_GC,0.0175,1,1,No,No
+CPI Inflation,EPU,D3,Y_to_X,NN_GC,0.017,1,1,No,No
+CPI Inflation,EPU,D4,X_to_Y,Linear_F,5.9831,0.0028,0.0096,Yes,Yes
+CPI Inflation,EPU,D4,Y_to_X,Linear_F,1.3986,0.2485,0.4373,No,No
+CPI Inflation,EPU,D4,X_to_Y,NN_GC,0.0184,1,1,No,No
+CPI Inflation,EPU,D4,Y_to_X,NN_GC,-0.0224,1,1,No,No
+CPI Inflation,EPU,D5,X_to_Y,Linear_F,2.9161,0.0556,0.1076,Yes,No
+CPI Inflation,EPU,D5,Y_to_X,Linear_F,0.0792,0.9239,0.9396,No,No
+CPI Inflation,EPU,D5,X_to_Y,NN_GC,0.0204,1,1,No,No
+CPI Inflation,EPU,D5,Y_to_X,NN_GC,0.5608,0.9115,1,No,No
+CPI Inflation,EPU,D6,X_to_Y,Linear_F,13.4708,0,0,Yes,Yes
+CPI Inflation,EPU,D6,Y_to_X,Linear_F,14.1633,0,0,Yes,Yes
+CPI Inflation,EPU,D6,X_to_Y,NN_GC,0.4515,0.967,1,No,No
+CPI Inflation,EPU,D6,Y_to_X,NN_GC,0.2547,0.9986,1,No,No
+CPI Inflation,GPR,D1,X_to_Y,Linear_F,0.5586,0.5726,0.7102,No,No
+CPI Inflation,GPR,D1,Y_to_X,Linear_F,2.9553,0.0535,0.1229,Yes,No
+CPI Inflation,GPR,D1,X_to_Y,NN_GC,-0.0265,1,1,No,No
+CPI Inflation,GPR,D1,Y_to_X,NN_GC,1.1005,0.3536,1,No,No
+CPI Inflation,GPR,D2,X_to_Y,Linear_F,3.6861,0.0261,0.0591,Yes,Yes
+CPI Inflation,GPR,D2,Y_to_X,Linear_F,0.3805,0.6839,0.8207,No,No
+CPI Inflation,GPR,D2,X_to_Y,NN_GC,0.1226,1,1,No,No
+CPI Inflation,GPR,D2,Y_to_X,NN_GC,2.9248,2.00E-04,0.012,Yes,Yes
+CPI Inflation,GPR,D3,X_to_Y,Linear_F,1.7741,0.1713,0.2705,No,No
+CPI Inflation,GPR,D3,Y_to_X,Linear_F,5.4208,0.0048,0.025,Yes,Yes
+CPI Inflation,GPR,D3,X_to_Y,NN_GC,0.031,1,1,No,No
+CPI Inflation,GPR,D3,Y_to_X,NN_GC,1.4287,0.1266,1,No,No
+CPI Inflation,GPR,D4,X_to_Y,Linear_F,26.2211,0,0,Yes,Yes
+CPI Inflation,GPR,D4,Y_to_X,Linear_F,2.3139,0.1005,0.2079,No,No
+CPI Inflation,GPR,D4,X_to_Y,NN_GC,0.0144,1,1,No,No
+CPI Inflation,GPR,D4,Y_to_X,NN_GC,0.5934,0.8884,1,No,No
+CPI Inflation,GPR,D5,X_to_Y,Linear_F,6.6419,0.0015,0.0056,Yes,Yes
+CPI Inflation,GPR,D5,Y_to_X,Linear_F,2.9746,0.0525,0.1229,Yes,No
+CPI Inflation,GPR,D5,X_to_Y,NN_GC,0.03,1,1,No,No
+CPI Inflation,GPR,D5,Y_to_X,NN_GC,-0.0085,1,1,No,No
+CPI Inflation,GPR,D6,X_to_Y,Linear_F,23.6679,0,0,Yes,Yes
+CPI Inflation,GPR,D6,Y_to_X,Linear_F,7.1895,9.00E-04,0.0077,Yes,Yes
+CPI Inflation,GPR,D6,X_to_Y,NN_GC,0.4357,0.9723,1,No,No
+CPI Inflation,GPR,D6,Y_to_X,NN_GC,-0.2292,1,1,No,No
+CPI Inflation,USEMV,D1,X_to_Y,Linear_F,1.2313,0.2933,0.4093,No,No
+CPI Inflation,USEMV,D1,Y_to_X,Linear_F,1.7731,0.1715,0.3216,No,No
+CPI Inflation,USEMV,D1,X_to_Y,NN_GC,-0.03,1,1,No,No
+CPI Inflation,USEMV,D1,Y_to_X,NN_GC,0.4768,0.9571,1,No,No
+CPI Inflation,USEMV,D2,X_to_Y,Linear_F,9.6823,1.00E-04,5.00E-04,Yes,Yes
+CPI Inflation,USEMV,D2,Y_to_X,Linear_F,5.9843,0.0028,0.0177,Yes,Yes
+CPI Inflation,USEMV,D2,X_to_Y,NN_GC,0.0983,1,1,No,No
+CPI Inflation,USEMV,D2,Y_to_X,NN_GC,0.1825,0.9998,1,No,No
+CPI Inflation,USEMV,D3,X_to_Y,Linear_F,12.0021,0,0,Yes,Yes
+CPI Inflation,USEMV,D3,Y_to_X,Linear_F,8.2758,3.00E-04,0.003,Yes,Yes
+CPI Inflation,USEMV,D3,X_to_Y,NN_GC,0.0099,1,1,No,No
+CPI Inflation,USEMV,D3,Y_to_X,NN_GC,0.0736,1,1,No,No
+CPI Inflation,USEMV,D4,X_to_Y,Linear_F,4.3906,0.0131,0.0357,Yes,Yes
+CPI Inflation,USEMV,D4,Y_to_X,Linear_F,3.1506,0.0442,0.1061,Yes,No
+CPI Inflation,USEMV,D4,X_to_Y,NN_GC,0.0321,1,1,No,No
+CPI Inflation,USEMV,D4,Y_to_X,NN_GC,-0.0012,1,1,No,No
+CPI Inflation,USEMV,D5,X_to_Y,Linear_F,22.9231,0,0,Yes,Yes
+CPI Inflation,USEMV,D5,Y_to_X,Linear_F,3.4449,0.0331,0.0946,Yes,Yes
+CPI Inflation,USEMV,D5,X_to_Y,NN_GC,0.0508,1,1,No,No
+CPI Inflation,USEMV,D5,Y_to_X,NN_GC,0.1253,1,1,No,No
+CPI Inflation,USEMV,D6,X_to_Y,Linear_F,5.4122,0.0049,0.0151,Yes,Yes
+CPI Inflation,USEMV,D6,Y_to_X,Linear_F,4.5831,0.0109,0.0467,Yes,Yes
+CPI Inflation,USEMV,D6,X_to_Y,NN_GC,0.2509,0.9988,1,No,No
+CPI Inflation,USEMV,D6,Y_to_X,NN_GC,0.6522,0.8395,1,No,No
+CPI Inflation,USMPU,D1,X_to_Y,Linear_F,4.2405,0.0152,0.0405,Yes,Yes
+CPI Inflation,USMPU,D1,Y_to_X,Linear_F,4.1243,0.017,0.0638,Yes,Yes
+CPI Inflation,USMPU,D1,X_to_Y,NN_GC,-0.0363,1,1,No,No
+CPI Inflation,USMPU,D1,Y_to_X,NN_GC,0.7668,0.7229,1,No,No
+CPI Inflation,USMPU,D2,X_to_Y,Linear_F,12.1578,0,0,Yes,Yes
+CPI Inflation,USMPU,D2,Y_to_X,Linear_F,5.0027,0.0073,0.0337,Yes,Yes
+CPI Inflation,USMPU,D2,X_to_Y,NN_GC,0.0724,1,1,No,No
+CPI Inflation,USMPU,D2,Y_to_X,NN_GC,1.3364,0.1735,1,No,No
+CPI Inflation,USMPU,D3,X_to_Y,Linear_F,7.4044,7.00E-04,0.0031,Yes,Yes
+CPI Inflation,USMPU,D3,Y_to_X,Linear_F,4.0782,0.0178,0.0647,Yes,Yes
+CPI Inflation,USMPU,D3,X_to_Y,NN_GC,0.0106,1,1,No,No
+CPI Inflation,USMPU,D3,Y_to_X,NN_GC,0.1278,1,1,No,No
+CPI Inflation,USMPU,D4,X_to_Y,Linear_F,5.9569,0.0029,0.0097,Yes,Yes
+CPI Inflation,USMPU,D4,Y_to_X,Linear_F,7.1721,9.00E-04,0.0077,Yes,Yes
+CPI Inflation,USMPU,D4,X_to_Y,NN_GC,0.0313,1,1,No,No
+CPI Inflation,USMPU,D4,Y_to_X,NN_GC,-0.0136,1,1,No,No
+CPI Inflation,USMPU,D5,X_to_Y,Linear_F,2.7336,0.0665,0.1247,Yes,No
+CPI Inflation,USMPU,D5,Y_to_X,Linear_F,1.0293,0.3584,0.5659,No,No
+CPI Inflation,USMPU,D5,X_to_Y,NN_GC,0.0552,1,1,No,No
+CPI Inflation,USMPU,D5,Y_to_X,NN_GC,0.3981,0.9825,1,No,No
+CPI Inflation,USMPU,D6,X_to_Y,Linear_F,14.4365,0,0,Yes,Yes
+CPI Inflation,USMPU,D6,Y_to_X,Linear_F,3.2065,0.0418,0.1024,Yes,No
+CPI Inflation,USMPU,D6,X_to_Y,NN_GC,0.4756,0.9576,1,No,No
+CPI Inflation,USMPU,D6,Y_to_X,NN_GC,0.0408,1,1,No,No
